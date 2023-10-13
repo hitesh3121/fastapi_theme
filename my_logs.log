@@ -667,3 +667,17 @@ ZeroDivisionError: division by zero
 2023-10-13 11:55:38.674 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
 2023-10-13 11:55:38.676 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
 2023-10-13 11:55:38.676 | INFO     | uvicorn.server:serve:86 - Finished server process [22484]
+2023-10-13 11:55:40.182 | INFO     | uvicorn.server:serve:76 - Started server process [8592]
+2023-10-13 11:55:40.183 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 11:55:40.184 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 12:03:05.136 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 12:03:05.243 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 12:03:05.244 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 12:03:05.245 | INFO     | uvicorn.server:serve:86 - Finished server process [8592]
+2023-10-13 12:03:06.826 | INFO     | uvicorn.server:serve:76 - Started server process [1992]
+2023-10-13 12:03:06.828 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 12:03:06.828 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 12:03:10.323 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 12:03:10.432 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 12:03:10.433 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 12:03:10.434 | INFO     | uvicorn.server:serve:86 - Finished server process [1992]

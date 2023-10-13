@@ -1,15 +1,15 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
 from uvicorn import Config, Server
-# from src.common.error_handler import http_error_handler
-# from src.database.database import Base, engine
+from src.common.error_handler import http_error_handler
+from src.database.database import Base, engine
 from src.routers.api import router as api_route
 from src.common.logger import setup_logging, LOG_LEVEL
 
 def get_application() -> FastAPI:
     applications = FastAPI()
-    # Base.metadata.create_all(bind=engine)
+    Base.metadata.create_all(bind=engine)
     applications.include_router(api_route)
-    # applications.add_exception_handler(HTTPException, http_error_handler)
+    applications.add_exception_handler(HTTPException, http_error_handler)
     setup_logging()
     return applications
 
