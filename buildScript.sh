@@ -1,7 +1,7 @@
-echo python -m venv pythonENV;
-echo cd pythonENV/ ;
-echo cd Scripts;
-echo activate
-echo cd ..
-echo cd ..
-echo pip install -r requirements.txt
+python -m venv pythonENV;
+cd pythonENV/ ;
+cd Scripts;
+activate
+cd ..
+cd ..
+pip install -r requirements.txt
