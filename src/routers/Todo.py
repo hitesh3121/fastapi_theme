@@ -1,4 +1,3 @@
-import logging
 from fastapi import Depends, APIRouter
 from pydantic import BaseModel
 from sqlalchemy.orm import Session
@@ -12,7 +11,6 @@ class CreateTodoBody(BaseModel):
 
 
 router = APIRouter()
-logger = logging.getLogger("my_logs")
 
 @router.get("/getTodos")
 def read_items(db: Session = Depends(get_db)):

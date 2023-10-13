@@ -8,7 +8,7 @@ from src.common.logger import setup_logging, LOG_LEVEL
 def get_application() -> FastAPI:
     applications = FastAPI()
     Base.metadata.create_all(bind=engine)
-    applications.include_router(api_route, prefix='/api')
+    applications.include_router(api_route)
     applications.add_exception_handler(HTTPException, http_error_handler)
     setup_logging()
     return applications

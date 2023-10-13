@@ -318,3 +318,305 @@ ZeroDivisionError: division by zero
 2023-10-13 10:05:04.748 | INFO     | uvicorn.server:serve:76 - Started server process [10248]
 2023-10-13 10:05:04.749 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
 2023-10-13 10:05:04.750 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:23:33.442 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:23:33.551 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:23:33.552 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:23:33.553 | INFO     | uvicorn.server:serve:86 - Finished server process [10248]
+2023-10-13 10:23:35.404 | INFO     | uvicorn.server:serve:76 - Started server process [24956]
+2023-10-13 10:23:35.405 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:23:35.406 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:23:40.340 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:23:40.449 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:23:40.450 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:23:40.451 | INFO     | uvicorn.server:serve:86 - Finished server process [24956]
+2023-10-13 10:23:42.087 | INFO     | uvicorn.server:serve:76 - Started server process [21068]
+2023-10-13 10:23:42.088 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:23:42.089 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:23:59.460 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:23:59.569 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:23:59.570 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:23:59.571 | INFO     | uvicorn.server:serve:86 - Finished server process [21068]
+2023-10-13 10:24:01.196 | INFO     | uvicorn.server:serve:76 - Started server process [19776]
+2023-10-13 10:24:01.197 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:24:01.198 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:24:49.838 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:24:49.947 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:24:49.948 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:24:49.949 | INFO     | uvicorn.server:serve:86 - Finished server process [19776]
+2023-10-13 10:24:51.507 | INFO     | uvicorn.server:serve:76 - Started server process [23756]
+2023-10-13 10:24:51.508 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:24:51.509 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:25:04.948 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:25:05.058 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:25:05.059 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:25:05.060 | INFO     | uvicorn.server:serve:86 - Finished server process [23756]
+2023-10-13 10:25:06.602 | INFO     | uvicorn.server:serve:76 - Started server process [14604]
+2023-10-13 10:25:06.603 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:25:06.605 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:25:07.263 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:25:07.372 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:25:07.374 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:25:07.376 | INFO     | uvicorn.server:serve:86 - Finished server process [14604]
+2023-10-13 10:25:08.851 | INFO     | uvicorn.server:serve:76 - Started server process [22784]
+2023-10-13 10:25:08.852 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:25:08.853 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:25:31.904 | INFO     | uvicorn.protocols.http.h11_impl:send:478 - 127.0.0.1:49742 - "GET /api HTTP/1.1" 404
+2023-10-13 10:25:36.184 | INFO     | uvicorn.protocols.http.h11_impl:send:478 - 127.0.0.1:49742 - "GET / HTTP/1.1" 404
+2023-10-13 10:25:38.619 | INFO     | uvicorn.protocols.http.h11_impl:send:478 - 127.0.0.1:49742 - "GET / HTTP/1.1" 404
+2023-10-13 10:25:52.233 | INFO     | uvicorn.protocols.http.h11_impl:send:478 - 127.0.0.1:60621 - "GET /api HTTP/1.1" 404
+2023-10-13 10:25:54.883 | INFO     | uvicorn.protocols.http.h11_impl:send:478 - 127.0.0.1:60621 - "GET /api/ HTTP/1.1" 404
+2023-10-13 10:25:59.690 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:25:59.798 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:25:59.799 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:25:59.800 | INFO     | uvicorn.server:serve:86 - Finished server process [22784]
+2023-10-13 10:26:01.752 | INFO     | uvicorn.server:serve:76 - Started server process [20052]
+2023-10-13 10:26:01.752 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:26:01.753 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:26:56.038 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:26:56.145 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:26:56.147 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:26:56.148 | INFO     | uvicorn.server:serve:86 - Finished server process [20052]
+2023-10-13 10:26:57.856 | INFO     | uvicorn.server:serve:76 - Started server process [21096]
+2023-10-13 10:26:57.857 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:26:57.858 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:26:58.511 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:26:58.619 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:26:58.620 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:26:58.622 | INFO     | uvicorn.server:serve:86 - Finished server process [21096]
+2023-10-13 10:27:00.215 | INFO     | uvicorn.server:serve:76 - Started server process [11668]
+2023-10-13 10:27:00.216 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:27:00.217 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:27:07.894 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:27:08.002 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:27:08.003 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:27:08.004 | INFO     | uvicorn.server:serve:86 - Finished server process [11668]
+2023-10-13 10:27:09.459 | INFO     | uvicorn.server:serve:76 - Started server process [24628]
+2023-10-13 10:27:09.461 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:27:09.462 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:27:17.395 | INFO     | uvicorn.protocols.http.h11_impl:send:478 - 127.0.0.1:51609 - "GET /api/ HTTP/1.1" 404
+2023-10-13 10:27:20.531 | INFO     | uvicorn.protocols.http.h11_impl:send:478 - 127.0.0.1:51609 - "GET / HTTP/1.1" 404
+2023-10-13 10:27:48.215 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:27:48.324 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:27:48.325 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:27:48.325 | INFO     | uvicorn.server:serve:86 - Finished server process [24628]
+2023-10-13 10:27:49.799 | INFO     | uvicorn.server:serve:76 - Started server process [18704]
+2023-10-13 10:27:49.801 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:27:49.802 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:27:52.732 | INFO     | uvicorn.protocols.http.h11_impl:send:478 - 127.0.0.1:51630 - "GET / HTTP/1.1" 404
+2023-10-13 10:27:59.820 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:27:59.928 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:27:59.929 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:27:59.930 | INFO     | uvicorn.server:serve:86 - Finished server process [18704]
+2023-10-13 10:28:01.436 | INFO     | uvicorn.server:serve:76 - Started server process [9400]
+2023-10-13 10:28:01.436 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:28:01.438 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:28:07.559 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:28:07.667 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:28:07.668 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:28:07.669 | INFO     | uvicorn.server:serve:86 - Finished server process [9400]
+2023-10-13 10:28:09.150 | INFO     | uvicorn.server:serve:76 - Started server process [25580]
+2023-10-13 10:28:09.151 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:28:09.152 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:28:09.912 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:28:10.022 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:28:10.023 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:28:10.024 | INFO     | uvicorn.server:serve:86 - Finished server process [25580]
+2023-10-13 10:28:11.663 | INFO     | uvicorn.server:serve:76 - Started server process [12212]
+2023-10-13 10:28:11.664 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:28:11.665 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:28:13.801 | INFO     | uvicorn.protocols.http.h11_impl:send:478 - 127.0.0.1:65022 - "GET / HTTP/1.1" 404
+2023-10-13 10:28:22.331 | INFO     | uvicorn.protocols.http.h11_impl:send:478 - 127.0.0.1:65036 - "GET / HTTP/1.1" 404
+2023-10-13 10:28:28.609 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:28:28.717 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:28:28.718 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:28:28.719 | INFO     | uvicorn.server:serve:86 - Finished server process [12212]
+2023-10-13 10:28:30.138 | INFO     | uvicorn.server:serve:76 - Started server process [13132]
+2023-10-13 10:28:30.140 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:28:30.141 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:28:32.107 | INFO     | uvicorn.protocols.http.h11_impl:send:478 - 127.0.0.1:65048 - "GET /test HTTP/1.1" 404
+2023-10-13 10:28:57.874 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:28:57.984 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:28:57.984 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:28:57.985 | INFO     | uvicorn.server:serve:86 - Finished server process [13132]
+2023-10-13 10:28:59.434 | INFO     | uvicorn.server:serve:76 - Started server process [17644]
+2023-10-13 10:28:59.435 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:28:59.436 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:29:05.563 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:29:05.672 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:29:05.673 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:29:05.674 | INFO     | uvicorn.server:serve:86 - Finished server process [17644]
+2023-10-13 10:29:13.415 | INFO     | uvicorn.server:serve:76 - Started server process [7760]
+2023-10-13 10:29:13.417 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:29:13.417 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:29:20.362 | INFO     | uvicorn.protocols.http.h11_impl:send:478 - 127.0.0.1:52301 - "GET /test HTTP/1.1" 404
+2023-10-13 10:29:24.072 | INFO     | uvicorn.protocols.http.h11_impl:send:478 - 127.0.0.1:52301 - "GET /api HTTP/1.1" 404
+2023-10-13 10:29:25.536 | INFO     | uvicorn.protocols.http.h11_impl:send:478 - 127.0.0.1:52301 - "GET /api/ HTTP/1.1" 404
+2023-10-13 10:29:44.823 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:29:44.930 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:29:44.931 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:29:44.932 | INFO     | uvicorn.server:serve:86 - Finished server process [7760]
+2023-10-13 10:29:46.637 | INFO     | uvicorn.server:serve:76 - Started server process [18292]
+2023-10-13 10:29:46.638 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:29:46.640 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:29:52.333 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:29:52.442 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:29:52.444 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:29:52.445 | INFO     | uvicorn.server:serve:86 - Finished server process [18292]
+2023-10-13 10:29:54.162 | INFO     | uvicorn.server:serve:76 - Started server process [17424]
+2023-10-13 10:29:54.163 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:29:54.164 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:29:56.858 | INFO     | uvicorn.protocols.http.h11_impl:send:478 - 127.0.0.1:52332 - "GET /api/ HTTP/1.1" 404
+2023-10-13 10:30:14.985 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:30:15.095 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:30:15.097 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:30:15.097 | INFO     | uvicorn.server:serve:86 - Finished server process [17424]
+2023-10-13 10:30:16.752 | INFO     | uvicorn.server:serve:76 - Started server process [23936]
+2023-10-13 10:30:16.753 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:30:16.754 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:30:21.123 | INFO     | uvicorn.protocols.http.h11_impl:send:478 - 127.0.0.1:62463 - "GET /api/ HTTP/1.1" 404
+2023-10-13 10:30:40.205 | INFO     | uvicorn.protocols.http.h11_impl:send:478 - 127.0.0.1:62481 - "GET /api/todo HTTP/1.1" 307
+2023-10-13 10:30:40.226 | INFO     | uvicorn.protocols.http.h11_impl:send:478 - 127.0.0.1:62481 - "GET /api/todo/ HTTP/1.1" 200
+2023-10-13 10:31:23.057 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:31:23.164 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:31:23.165 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:31:23.167 | INFO     | uvicorn.server:serve:86 - Finished server process [23936]
+2023-10-13 10:31:24.914 | INFO     | uvicorn.server:serve:76 - Started server process [6756]
+2023-10-13 10:31:24.915 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:31:24.916 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:31:26.668 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:31:26.776 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:31:26.777 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:31:26.778 | INFO     | uvicorn.server:serve:86 - Finished server process [6756]
+2023-10-13 10:31:31.579 | INFO     | uvicorn.server:serve:76 - Started server process [10916]
+2023-10-13 10:31:31.580 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:31:31.581 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:31:34.212 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:31:34.322 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:31:34.322 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:31:34.324 | INFO     | uvicorn.server:serve:86 - Finished server process [10916]
+2023-10-13 10:31:35.918 | INFO     | uvicorn.server:serve:76 - Started server process [16096]
+2023-10-13 10:31:35.920 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:31:35.921 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:31:39.303 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:31:39.412 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:31:39.413 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:31:39.414 | INFO     | uvicorn.server:serve:86 - Finished server process [16096]
+2023-10-13 10:31:40.988 | INFO     | uvicorn.server:serve:76 - Started server process [17556]
+2023-10-13 10:31:40.989 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:31:40.990 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:31:42.422 | INFO     | uvicorn.protocols.http.h11_impl:send:478 - 127.0.0.1:58859 - "GET /api/todo HTTP/1.1" 307
+2023-10-13 10:31:42.428 | INFO     | uvicorn.protocols.http.h11_impl:send:478 - 127.0.0.1:58859 - "GET /api/todo/ HTTP/1.1" 200
+2023-10-13 10:31:45.994 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:31:46.103 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:31:46.104 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:31:46.105 | INFO     | uvicorn.server:serve:86 - Finished server process [17556]
+2023-10-13 10:31:48.087 | INFO     | uvicorn.server:serve:76 - Started server process [21756]
+2023-10-13 10:31:48.088 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:31:48.090 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:31:48.311 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:31:48.419 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:31:48.421 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:31:48.422 | INFO     | uvicorn.server:serve:86 - Finished server process [21756]
+2023-10-13 10:31:50.101 | INFO     | uvicorn.server:serve:76 - Started server process [16812]
+2023-10-13 10:31:50.102 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:31:50.102 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:31:51.166 | INFO     | uvicorn.protocols.http.h11_impl:send:478 - 127.0.0.1:58872 - "GET /api/todo HTTP/1.1" 404
+2023-10-13 10:31:53.698 | INFO     | uvicorn.protocols.http.h11_impl:send:478 - 127.0.0.1:58872 - "GET /api HTTP/1.1" 307
+2023-10-13 10:31:53.706 | INFO     | uvicorn.protocols.http.h11_impl:send:478 - 127.0.0.1:58872 - "GET /api/ HTTP/1.1" 200
+2023-10-13 10:32:03.299 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:32:03.409 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:32:03.411 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:32:03.412 | INFO     | uvicorn.server:serve:86 - Finished server process [16812]
+2023-10-13 10:32:05.400 | INFO     | uvicorn.server:serve:76 - Started server process [10152]
+2023-10-13 10:32:05.401 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:32:05.402 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:32:06.616 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:32:06.723 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:32:06.725 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:32:06.725 | INFO     | uvicorn.server:serve:86 - Finished server process [10152]
+2023-10-13 10:32:15.286 | INFO     | uvicorn.server:serve:76 - Started server process [17372]
+2023-10-13 10:32:15.287 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:32:15.288 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:32:17.529 | INFO     | uvicorn.protocols.http.h11_impl:send:478 - 127.0.0.1:57741 - "GET /api HTTP/1.1" 404
+2023-10-13 10:32:20.966 | INFO     | uvicorn.protocols.http.h11_impl:send:478 - 127.0.0.1:57741 - "GET / HTTP/1.1" 404
+2023-10-13 10:32:38.016 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:32:38.125 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:32:38.126 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:32:38.126 | INFO     | uvicorn.server:serve:86 - Finished server process [17372]
+2023-10-13 10:32:39.601 | INFO     | uvicorn.server:serve:76 - Started server process [22304]
+2023-10-13 10:32:39.603 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:32:39.603 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:32:41.489 | INFO     | uvicorn.protocols.http.h11_impl:send:478 - 127.0.0.1:57766 - "GET / HTTP/1.1" 404
+2023-10-13 10:32:44.940 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:32:45.049 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:32:45.050 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:32:45.051 | INFO     | uvicorn.server:serve:86 - Finished server process [22304]
+2023-10-13 10:32:46.752 | INFO     | uvicorn.server:serve:76 - Started server process [8836]
+2023-10-13 10:32:46.753 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:32:46.753 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:33:09.394 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:33:09.501 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:33:09.502 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:33:09.502 | INFO     | uvicorn.server:serve:86 - Finished server process [8836]
+2023-10-13 10:33:11.376 | INFO     | uvicorn.server:serve:76 - Started server process [13520]
+2023-10-13 10:33:11.376 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:33:11.378 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:33:11.489 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:33:11.596 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:33:11.597 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:33:11.598 | INFO     | uvicorn.server:serve:86 - Finished server process [13520]
+2023-10-13 10:33:13.373 | INFO     | uvicorn.server:serve:76 - Started server process [25384]
+2023-10-13 10:33:13.374 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:33:13.375 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:33:15.891 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:33:16.001 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:33:16.002 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:33:16.004 | INFO     | uvicorn.server:serve:86 - Finished server process [25384]
+2023-10-13 10:33:17.672 | INFO     | uvicorn.server:serve:76 - Started server process [9196]
+2023-10-13 10:33:17.673 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:33:17.674 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:33:23.670 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:33:23.779 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:33:23.781 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:33:23.782 | INFO     | uvicorn.server:serve:86 - Finished server process [9196]
+2023-10-13 10:33:25.549 | INFO     | uvicorn.server:serve:76 - Started server process [9844]
+2023-10-13 10:33:25.550 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:33:25.551 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:33:27.410 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:33:27.519 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:33:27.520 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:33:27.521 | INFO     | uvicorn.server:serve:86 - Finished server process [9844]
+2023-10-13 10:33:29.102 | INFO     | uvicorn.server:serve:76 - Started server process [22992]
+2023-10-13 10:33:29.103 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:33:29.105 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:34:03.295 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:34:03.405 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:34:03.406 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:34:03.407 | INFO     | uvicorn.server:serve:86 - Finished server process [22992]
+2023-10-13 10:34:05.122 | INFO     | uvicorn.server:serve:76 - Started server process [20400]
+2023-10-13 10:34:05.123 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:34:05.124 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:34:19.672 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:34:19.780 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:34:19.781 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:34:19.782 | INFO     | uvicorn.server:serve:86 - Finished server process [20400]
+2023-10-13 10:34:47.268 | INFO     | uvicorn.server:serve:76 - Started server process [21916]
+2023-10-13 10:34:47.269 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:34:47.270 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:34:47.271 | INFO     | uvicorn.protocols.http.h11_impl:send:478 - 127.0.0.1:59854 - "GET / HTTP/1.1" 200
+2023-10-13 10:34:47.274 | INFO     | uvicorn.protocols.http.h11_impl:send:478 - 127.0.0.1:59857 - "GET / HTTP/1.1" 200
+2023-10-13 10:34:49.925 | INFO     | uvicorn.protocols.http.h11_impl:send:478 - 127.0.0.1:59857 - "GET / HTTP/1.1" 200
+2023-10-13 10:35:53.885 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:35:53.991 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:35:53.992 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:35:53.993 | INFO     | uvicorn.server:serve:86 - Finished server process [21916]
+2023-10-13 10:35:55.721 | INFO     | uvicorn.server:serve:76 - Started server process [22072]
+2023-10-13 10:35:55.722 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:35:55.723 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
+2023-10-13 10:41:13.928 | INFO     | uvicorn.server:shutdown:264 - Shutting down
+2023-10-13 10:41:14.038 | INFO     | uvicorn.lifespan.on:shutdown:65 - Waiting for application shutdown.
+2023-10-13 10:41:14.039 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2023-10-13 10:41:14.040 | INFO     | uvicorn.server:serve:86 - Finished server process [22072]
+2023-10-13 10:41:15.580 | INFO     | uvicorn.server:serve:76 - Started server process [10792]
+2023-10-13 10:41:15.581 | INFO     | uvicorn.lifespan.on:startup:46 - Waiting for application startup.
+2023-10-13 10:41:15.582 | INFO     | uvicorn.lifespan.on:startup:60 - Application startup complete.
