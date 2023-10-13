@@ -29,10 +29,10 @@ from sqlalchemy.ext.declarative import declarative_base
 # settings = Development_Settings()
 
 
-# SQLALCHEMY_DATABASE_URL = os.getenv('DATABASE_URL')
+SQLALCHEMY_DATABASE_URL = "postgresql://postgres_test:En0G67p4jzyQxGtYeMqYA8n7Qedtgv5d@dpg-ckke84bj89us73au19k0-a.oregon-postgres.render.com/fastapi_pg"
 
 
-engine = create_engine(os.getenv('DATABASE_URL'), client_encoding='utf8')
+engine = create_engine(SQLALCHEMY_DATABASE_URL, client_encoding='utf8')
 
 SessionLocal = orm.sessionmaker(autocommit=False, autoflush=False, bind=engine)
 Base = declarative_base()
